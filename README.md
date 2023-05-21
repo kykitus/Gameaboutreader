@@ -28,7 +28,7 @@ So until proabably June, you have exclusive oppurtunity to see this exclusive co
 
 
 From now, things that should work is:
-- Shop (unfinished)
+- Shop (unfinished consumables)
 - Both main and shop menus
 - Stats menu
 - Equipment (lucky items still in development) managment system 
