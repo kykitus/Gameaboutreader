@@ -23,7 +23,7 @@ I plan to change names of variables after completing this game (and add comments
 
 But it isn't finished yet
 
-So until proabably June, you have excluive oppurtunity to see this exclusive content of exclusive variable names
+So until proabably June, you have exclusive oppurtunity to see this exclusive content of exclusive variable names
 
 
 
