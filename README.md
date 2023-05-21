@@ -19,7 +19,7 @@ Do comments exist even in github?
 
 Code in this game is yes
 
-I plan to change names of variables after completing this game
+I plan to change names of variables after completing this game (and add comments over time)
 
 But it isn't finished yet
 
