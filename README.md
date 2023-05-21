@@ -1,4 +1,4 @@
-# myfirstshitgame
+# Gameaboutreader
 Here you can experience the terminal game (still in develpment)
 
 This is game
