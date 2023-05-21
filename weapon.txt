@@ -1,0 +1,16 @@
+NAME	ATTACK	RANGE	CRIT	PRICE	REQLVL	TYPE
+Arm	0	0	0	0	0	2
+Dullsword	2	0.90	0.12	10	1	1
+Sadwsower	2	0.90	0.80	10	1	1
+SLOUR	2	0.90	0.80	10	1	1
+bolsadguy	2	0.90	0.80	10	1	1
+hogrider	2	0.90	0.80	10	1	1
+gfghh	2	0.90	0.80	10	1	1
+jaktaktodziala	2	0.90	0.80	10	1	1
+jankeeee	4	0.67	0.53	9	1	2
+uber	4	0.67	0.53	9	1	2
+jankuee	6	0.64	0.33	8	1	3
+hihi	6	0.64	0.33	8	1	3
+dudu	6	0.64	0.33	8	1	3
+dodeda	9	0.50	0.40	16	2	1
+---------------------------------------------------
