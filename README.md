@@ -1,5 +1,5 @@
 # myfirstshitgame
-Here you can experience the game (still in develpment)
+Here you can experience the terminal game (still in develpment)
 
 This is game
 
