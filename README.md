@@ -15,7 +15,7 @@ Let's tell it is about you reader
 
 Game about reader
 
-Do comments exist even in github?
+Do comments even exist in github?
 
 Code in this game is yes
 
