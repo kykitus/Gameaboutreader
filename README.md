@@ -40,4 +40,5 @@ Things that I want do to finish this game is:
 - Lvl up system
 - Consumables system
 - Fight system
+- Armor types
 - Fix bugs if there are (definiely there are)
