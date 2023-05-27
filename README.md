@@ -42,3 +42,7 @@ Things that I want do to finish this game is:
 - Fight system
 - Armor types
 - Fix bugs if there are (definiely there are)
+
+Currently working on:
+- Save/Load system
+- Lvl up system
