@@ -59,4 +59,7 @@ new:
 
 fixed:
 - shop (everything was wrong here)
+
+changed:
+- now versions will be stored in folders
 ---------------------------------------------
