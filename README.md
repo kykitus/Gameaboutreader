@@ -31,12 +31,12 @@ From now, things that should work is:
 - Shop (unfinished consumables)
 - Both main and shop menus
 - Stats menu
-- Equipment (lucky items still in development) managment system 
+- Equipment managment system (lucky items still in development)
+- Save/Load menu
 
 Things that I want do to finish this game is:
 - More items
 - More enemy names
-- Save/Load system
 - Lvl up system
 - Consumables system
 - Fight system
@@ -44,5 +44,19 @@ Things that I want do to finish this game is:
 - Fix bugs if there are (definiely there are)
 
 Currently working on:
-- Save/Load system
+- Fight system
 - Lvl up system
+
+NEWS:
+---------------------------------------------
+09.06.2023
+new patch named:
+new visitor arrived
+
+new:
+- working save/load system
+- prototype version of lvl up system
+
+fixed:
+- shop (everything was wrong here)
+---------------------------------------------
