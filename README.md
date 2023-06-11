@@ -25,8 +25,10 @@ But it isn't finished yet
 
 So until proabably June, you have exclusive oppurtunity to see this exclusive content of exclusive variable names
 
+
 How to open game:
 - all is required is all txt files to be in same folder as exe file (or rest of source files if game is opened with MVS)
+
 
 From now, things that should work is:
 - Shop (unfinished consumables)
