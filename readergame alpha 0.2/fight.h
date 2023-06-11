@@ -85,7 +85,7 @@ int armrand(bool helm) {
 int itemrand() {
 	int limit = 0;
 	int d = 0;
-	while (d <= itme.size()) {
+	while (d < itme.size()) {
 		if (itme[d]->getlvlreq() > playere.getlvl()) {
 			limit = d - 1;
 			break;
