@@ -1,0 +1,5 @@
+NAME	PRICE	REQLVL	CATEGORY	ABILITYDESC
+None	0	0	status	none
+Big dry stick	6	3	status	10% chance for enemy to get splinter from attacking you (-1 attack)
+Infantry boots	27	3	movement	Moving forward does not cost tiredness
+-----------------------------------

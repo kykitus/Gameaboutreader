@@ -1,0 +1,11 @@
+NAME	HARD	PRICE	REQLVL	FORHEAD	TYPE
+Body	0.0	0	0	0	0
+Head	0.0	0	0	1	0
+Staraszmata	0.05	5	1	0	1
+Mniejstaraszmata	0.07	7	1	0	1
+bul pierworodny	0.06	5	1	0	1
+Przeszywanica adidos	0.08	15	2	0	1
+Czapkaseby	0.03	3	1	1	1
+doobie	0.03	4	1	1	1
+mandarynka	0.04	7	2	1	1
+------------------------------------------------

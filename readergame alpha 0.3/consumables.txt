@@ -1,0 +1,13 @@
+NAME	POWER	PRICE	LVLREQ	TYPE	TIER
+flask of gillyflower	8	6	1	1	1
+cup of treemilk	12	9	5	1	2
+liquid glass bottle	17	15	10	1	3
+--	
+dry brown nugget in glass	5	5	1	2	1
+cup of brown water	7	7	5	2	2
+jack flash flask	10	11	10	2	3
+--	
+limestone rock	0.20	7	4	3	1
+burned clay	0.30	10	7	3	2
+brick	0.40	15	10	3	3
+
