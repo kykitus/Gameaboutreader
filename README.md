@@ -61,6 +61,7 @@ new:
 - punching buddy (fight prototype) with no ai. You can punch him or run from him :)
 - lvl up system (really works)
 - 30% of consumable system - working lvl up requierment, backpack restricted to 8 slots (you can't save them until new patch)
+- Icon for game
 
 changed:
 - code is now more readable - added comments and changed 2/3 names of variables/classes/etc..
