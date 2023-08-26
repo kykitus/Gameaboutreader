@@ -29,16 +29,6 @@ So until proabably June, you have exclusive oppurtunity to see this exclusive co
 How to open game:
 - all is required is all txt files to be in same folder as exe file (or rest of source files if game is opened with MVS)
 
-
-From now, things that should work is:
-- Shop
-- fight (no ai and consumables)
-- Stats menu
-- Lvl up sustem
-- Equipment managment system (lucky items still in development)
-- Save/Load menu
-- 
-
 Things that I want do to finish this game is:
 - nothing, it's finished (yay)
 
