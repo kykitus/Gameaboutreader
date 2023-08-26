@@ -1,0 +1,9 @@
+NAME	PRICE	REQLVL	CATEGORY	HAVEPASSIVE	ABILITYDESC
+None	0	0	none	0	none
+Big dry stick	6	3	default	0	10% chance for enemy to get splinter from attacking you (-his lvl to attack)
+Infantry boots	27	3	default	0	Walking forward does not cost tiredness
+Sharp brick	33	4	default	0	Moving close to the enemy results in dealing damage to him
+Anvilet	26	4	default	1	Side attacks makes you move left/right
+Binded housekey	34	5	default	0	15% chance to opponent mimic your move
+Recycling bottles	22	6	default	0	After using 2 potions, every next will make you move in random direction
+-----------------------------------

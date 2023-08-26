@@ -1,0 +1,45 @@
+NAME	ATTACK	RANGE	PRICE	REQLVL	TYPE
+Arm	0	0	0	0	0
+Knife blade on rock	9	0.20	8	1	1
+Filleting knife	13	0.26	20	1	1
+Brittle dagger	16	0.20	37	2	1
+Polished dagger	18	0.28	43	2	1
+Hunter's knive	22	0.28	59	3	1
+Old broken sword	26	0.35	75	3	1
+Cleaver	27	0.40	80	4	1
+Infantry sword	33	0.50	94	5	1
+Bastard sword	37	0.65	112	6	1
+Heavy cleaver	40	0.45	132	6	1
+Rapier	43	0.75	160	7	1
+Sword breaker	49	0.35	179	8	1
+Long sword	46	0.76	210	8	1
+Savage cutter	47	0.60	246	9	1
+Dove's feather	51	1	278	10	1
+Finisher	200	0.10	1500	11	1
+--	
+Wooden club	8	0.30	28	1	2
+Mallet	14	0.37	39	2	2
+Outdated mace	20	0.40	57	3	2
+blacksmith's hammer	24	0.30	84	4	2
+Solid wooden baton	23	0.36	94	4	2
+Newbie's mace	30	0.40	120	5	2
+Infantry mace	35	0.45	143	6	2
+Spiked club	40	0.33	170	7	2
+Armor reshaper	38	0.55	186	7	2
+Heavy spiked ball	44	0.47	195	8	2
+Backbeaker	48	0.57	233	9	2
+Morningstar	50	0.50	287	10	2
+Balldesolator	180	1	1400	20	2
+--	
+Beggar stick	12	1.20	46	2	3
+Rusty pitchfork	21	1.30	60	3	3
+Hunting javelin	23	1.10	80	3
+Homemade spear	26	1.45	100	4	3
+Training spear	28	1.60	160	5	3
+Wooden lance	32	1.40	196	5	3
+Infantry spear	36	1.50	212	6	3
+Partisan	46	1.30	278	8	3
+Desolator	50	1.50	312	9	3
+Deadman's finger	52	1.45	350	10	3
+Ultimate Champion's Will	220	2	1700	20	3
+---------------------------------------------------
