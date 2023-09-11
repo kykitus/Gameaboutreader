@@ -42,7 +42,7 @@ New patch called:
 Finally!
 
 Log:
-It's finally here.... the game. Even through it took 8.5 months to finish simple game on terminal, I feel proud of myself. I really want to thank that one guy that watched me for 3 months caus it actually encouraged me to keep working at it. Now i will be starting with Unreal to try actual serious things in game development. But this journey wasn't ended. It starts from this mile stone and maybe some years later it will be revived as actual game somewhere or even evolve into something interesing. A game that will may have some both positive and negative reviews that would have important impact on further development. Maybe I will stop being lazy or slow enough to make simple terminal game in 8.5 months. Or go opposite and will be breaking through records oldest games in alpha at speed of light. Again, thank you. :>
+It's finally here.... the game. Even through it took 8.5 months to finish simple game on terminal, it was still enjoyable spending time on it. Maybe in future I will stop being lazy or slow enough to make simple terminal game have that long time of development. Or go opposite and I will be breaking through records oldest games in alpha at speed of light. Again, thank you. :>
 
 new:
 -all i wanted to do:
