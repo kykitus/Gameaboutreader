@@ -19,13 +19,6 @@ Do comments even exist in github?
 
 Code in this game is yes
 
-I plan to change names of variables after completing this game (and add comments over time)
-
-But it isn't finished yet
-
-So until proabably June, you have exclusive oppurtunity to see this exclusive content of exclusive variable names
-
-
 How to open game:
 - all is required is all txt files to be in same folder as exe file (or rest of source files if game is opened with MVS)
 
