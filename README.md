@@ -35,7 +35,7 @@ New patch called:
 Finally!
 
 Log:
-It's finally here.... the game. Even through it took 8.5 months to finish simple game on terminal, it was still enjoyable spending time on it. Maybe in future I will stop being lazy or slow enough to make simple terminal game have that long time of development. Or go opposite and I will be breaking through records oldest games in alpha at speed of light. Again, thank you. :>
+It's finally here.... the game. Even through it took 8.5 months to finish simple game on terminal, it was still enjoyable spending time on it. Maybe in future I will stop being lazy or slow enough to make simple terminal game have that long time of development. Or go opposite and I will be breaking through records of oldest games in alpha at speed of light.
 
 new:
 -all i wanted to do:
