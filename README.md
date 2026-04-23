@@ -1,5 +1,9 @@
 # Gameaboutreader
-Here you can experience the terminal game (still in develpment)
+==================================================
+              MY FIRST PROJECT EVER
+==================================================
+
+Here you can experience the terminal game
 
 This is game
 
