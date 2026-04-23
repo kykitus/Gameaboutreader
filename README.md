@@ -1,7 +1,7 @@
 # Gameaboutreader
-==================================================
-              MY FIRST PROJECT EVER
-==================================================
+==       
+MY FIRST PROJECT EVER 
+==
 
 Here you can experience the terminal game
 
