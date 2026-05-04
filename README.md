@@ -24,13 +24,13 @@ Do comments even exist in github?
 Code in this game is yes
 
 How to open game:
-- all is required is all txt files to be in same folder as exe file (or rest of source files if game is opened with MVS)
+- all is required is all txt files to be in same folder as executable
 
 Things that I want do to finish this game is:
 - nothing, it's finished (yay)
 
 Currently working on:
-- many many math calculations that would convice me to release an DLC
+- nothing
   
 NEWS:
 ---------------------------------------------
